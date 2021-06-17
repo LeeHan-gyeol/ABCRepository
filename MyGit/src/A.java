@@ -4,5 +4,6 @@ public class A {
 		System.out.println("A Hello");
 		System.out.println("A Hello master");
 		System.out.println("A Hello devB");
+		System.out.println("A Hello devC");
 	}
 }
